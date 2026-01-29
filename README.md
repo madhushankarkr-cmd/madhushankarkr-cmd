@@ -9,7 +9,7 @@
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming
-- C / C++
+- C 
 - Java
 - Python
 - JavaScript
@@ -42,7 +42,7 @@ Tech: HTML, CSS, JavaScript, React
 
 ### 📊 DSA Practice  
 Solved problems on LeetCode & Codeforces to strengthen problem-solving and algorithms.  
-Language: Java / C++  
+Language: Java 
 
 ### 🤖 AI Mini Projects (Coming Soon)
 - House Price Prediction
