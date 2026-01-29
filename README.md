@@ -70,9 +70,9 @@ Language: Java / C++
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add link)
-- GitHub: https://github.com/yourusername
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/madhu-shankar-kumar-74563537b/
+- GitHub: https://github.com/madhushankarkr-cmd
+- Email: madhushankarkr05707@gmail.com
 
 ---
 
