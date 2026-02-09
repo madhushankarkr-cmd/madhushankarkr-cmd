@@ -38,7 +38,7 @@
 ### 🛒 Amazon Clone Website  
 A responsive e-commerce website clone with product listing, UI design, and basic functionality.  
 Tech: HTML, CSS, JavaScript, React  
-🔗 Repo: soon!
+🔗 Repo: https://github.com/madhushankarkr-cmd/amazon-clone
 
 ### 📊 DSA Practice  
 Solved problems on LeetCode & Codeforces to strengthen problem-solving and algorithms.  
