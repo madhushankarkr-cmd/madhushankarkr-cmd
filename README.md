@@ -1,5 +1,5 @@
 # Hi, I'm Madhu Shankar Kumar 👋  
-### B.Tech CSE Student | Full-Stack Developer | AI & Open Source Enthusiast  
+### Undergraduate CSE Student | Full-Stack Developer | AI Developer & Open Source Contributor |   
 
 🚀 I am a first-year Computer Science Engineering student passionate about building real-world applications, learning AI, and contributing to open-source projects.  
 🎯 Currently preparing for programs like **GSoC, LFX, Smart India Hackathon (SIH), NVIDIA Student Ambassador**, and global internships.
