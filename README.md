@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhu%20Shankar%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20the%20Intelligent%20Web&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Madhu%20Shankar%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20the%20Intelligent%20Web&descAlignY=55&descSize=18" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Developer+%26+Full-Stack+Engineer;WebGL+%7C+3D+Web+%7C+Computer+Vision;Building+at+the+edge+of+what%27s+possible;Open-Source+Contributor+%7C+GSoC+Aspirant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=AI+Developer+%26+Full-Stack+Engineer;WebGL+%7C+3D+Web+%7C+Computer+Vision;Building+at+the+edge+of+what%27s+possible;Open-Source+Contributor+%7C+GSoC+Aspirant)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhu-shankar-kumar-74563537b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhushankarkr05707@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://fizz-co.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://madhushankarkr-cmd.github.io/My-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhushankarkr-cmd)
 
 </div>
@@ -59,14 +59,14 @@ class MadhuShankarKumar:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhushankarkr-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushankarkr-cmd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhushankarkr-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushankarkr-cmd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhushankarkr-cmd&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhushankarkr-cmd&theme=tokyonight&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee" width="60%"/>
 
 </div>
 
@@ -164,7 +164,7 @@ class MadhuShankarKumar:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhushankarkr-cmd&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhushankarkr-cmd&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=f59e0b" width="100%"/>
 
 </div>
 
@@ -257,7 +257,7 @@ If you're building something interesting in AI, WebGL, or full-stack engineering
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhu-shankar-kumar-74563537b/)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhushankarkr05707@gmail.com)
-[![Fizz & Co](https://img.shields.io/badge/See_My_Work-Fizz_%26_Co-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://fizz-co.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://madhushankarkr-cmd.github.io/My-Portfolio/)
 
 </div>
 
@@ -265,10 +265,10 @@ If you're building something interesting in AI, WebGL, or full-stack engineering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer" width="100%"/>
 
 **"Build things that don't exist yet."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhushankarkr-cmd&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=madhushankarkr-cmd&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
