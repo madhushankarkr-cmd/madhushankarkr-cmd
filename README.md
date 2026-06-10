@@ -138,11 +138,10 @@ class MadhuShankarKumar:
 | [**⚡ FIZZ & CO**](https://github.com/madhushankarkr-cmd/FIZZ-CO) | Immersive 3D headless product-storytelling web app with WebGL physics | `Next.js` `Three.js` `TypeScript` `Vercel` | ✅ Live |
 | [**🤖 Kiith-AI**](https://github.com/madhushankarkr-cmd/Kiith-AI) | Personal AI assistant with API integration & smart state management | `React` `Claude API` `JavaScript` | 🔨 Building |
 | [**🛡️ AegisAI**](https://github.com/madhushankarkr-cmd/AegisAI) | AI-powered security analysis system | `Python` `AI` `OpenCV` | 🔨 Building |
-| [**🌊 BlueGuardian AI**](https://github.com/madhushankarkr-cmd/BlueGuardian-BlueGuardian-AI) | Ocean conservation intelligence platform | `Python` `CV` `ML` | 🔬 Research |
 | [**🦁 Wildlife Guardian AI**](https://github.com/madhushankarkr-cmd/Wildlife-Guardian-AI) | Computer vision pipeline for wildlife detection & protection | `Python` `OpenCV` `Deep Learning` | 🔬 Research |
 | [**🌍 OmniAgent AI**](https://github.com/madhushankarkr-cmd/omniagent-ai) | Multi-agent AI orchestration system | `Python` `LLM` `Agents` | 🔨 Building |
 | [**🌐 Globe Flash**](https://github.com/madhushankarkr-cmd/globe-flash) | Interactive global flashcard learning platform | `React` `JavaScript` | ✅ Done |
-| [**🛒 A-Mart / Amazon Clone**](https://github.com/madhushankarkr-cmd/A-mart) | Full e-commerce storefront with modular React architecture | `React` `CSS3` `JavaScript` | ✅ Done |
+| [**🛒 A-Mart / Amazon Clone**](https://github.com/madhushankarkr-cmd/A-mart) | Full e-commerce storefront with modular React architecture | `React` `CSS3` `JavaScript` | Building |
 | [**🎵 Music Player**](https://github.com/madhushankarkr-cmd/musicplayer) | Browser-based music player with playlist management | `HTML5` `CSS3` `JS` | ✅ Done |
 | [**🧠 DSA Lab**](https://github.com/madhushankarkr-cmd/Data-structure-and-algorithm) | LeetCode & Codeforces solutions, O(N log N) complexity focus | `Java` | 🔄 Ongoing |
 
