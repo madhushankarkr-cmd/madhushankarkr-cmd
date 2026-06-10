@@ -1,5 +1,5 @@
 # Hi, I'm Madhu Shankar Kumar 👋
-### Undergraduate CSE Student | Full-Stack Developer | AI Developer & Open-Source Contributor
+### Undergraduate CSE Student | AI & Data Science | AI Developer & Open-Source Contributor
 
 <p align="left">
   <a href="https://linkedin.com/in/madhu-shankar-kumar-74563537b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
