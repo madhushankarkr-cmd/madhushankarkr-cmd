@@ -55,7 +55,7 @@ class MadhuShankarKumar:
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -78,9 +78,9 @@ class MadhuShankarKumar:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -99,7 +99,7 @@ class MadhuShankarKumar:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -107,7 +107,7 @@ class MadhuShankarKumar:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML
+###  AI / ML
 <p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -116,7 +116,7 @@ class MadhuShankarKumar:
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Infrastructure
+###  Tools & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -129,25 +129,25 @@ class MadhuShankarKumar:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [**⚡ FIZZ & CO**](https://github.com/madhushankarkr-cmd/FIZZ-CO) | Immersive 3D headless product-storytelling web app with WebGL physics | `Next.js` `Three.js` `TypeScript` `Vercel` | ✅ Live |
-| [**🤖 Kiith-AI**](https://github.com/madhushankarkr-cmd/Kiith-AI) | Personal AI assistant with API integration & smart state management | `React` `Claude API` `JavaScript` | 🔨 Building |
-| [**🛡️ AegisAI**](https://github.com/madhushankarkr-cmd/AegisAI) | AI-powered security analysis system | `Python` `AI` `OpenCV` | 🔨 Building |
-| [**🦁 Wildlife Guardian AI**](https://github.com/madhushankarkr-cmd/Wildlife-Guardian-AI) | Computer vision pipeline for wildlife detection & protection | `Python` `OpenCV` `Deep Learning` | 🔬 Research |
-| [**🌍 OmniAgent AI**](https://github.com/madhushankarkr-cmd/omniagent-ai) | Multi-agent AI orchestration system | `Python` `LLM` `Agents` | 🔨 Building |
-| [**🌐 Globe Flash**](https://github.com/madhushankarkr-cmd/globe-flash) | Interactive global flashcard learning platform | `React` `JavaScript` | ✅ Done |
-| [**🛒 A-Mart / Amazon Clone**](https://github.com/madhushankarkr-cmd/A-mart) | Full e-commerce storefront with modular React architecture | `React` `CSS3` `JavaScript` | Building |
-| [**🎵 Music Player**](https://github.com/madhushankarkr-cmd/musicplayer) | Browser-based music player with playlist management | `HTML5` `CSS3` `JS` | ✅ Done |
-| [**🧠 DSA Lab**](https://github.com/madhushankarkr-cmd/Data-structure-and-algorithm) | LeetCode & Codeforces solutions, O(N log N) complexity focus | `Java` | 🔄 Ongoing |
+| [** FIZZ & CO**](https://github.com/madhushankarkr-cmd/FIZZ-CO) | Immersive 3D headless product-storytelling web app with WebGL physics | `Next.js` `Three.js` `TypeScript` `Vercel` | ✅ Live |
+| [** Kiith-AI**](https://github.com/madhushankarkr-cmd/Kiith-AI) | Personal AI assistant with API integration & smart state management | `React` `Claude API` `JavaScript` | 🔨 Building |
+| [** AegisAI**](https://github.com/madhushankarkr-cmd/AegisAI) | AI-powered security analysis system | `Python` `AI` `OpenCV` | 🔨 Building |
+| [** Wildlife Guardian AI**](https://github.com/madhushankarkr-cmd/Wildlife-Guardian-AI) | Computer vision pipeline for wildlife detection & protection | `Python` `OpenCV` `Deep Learning` | 🔬 Research |
+| [** OmniAgent AI**](https://github.com/madhushankarkr-cmd/omniagent-ai) | Multi-agent AI orchestration system | `Python` `LLM` `Agents` | 🔨 Building |
+| [** Globe Flash**](https://github.com/madhushankarkr-cmd/globe-flash) | Interactive global flashcard learning platform | `React` `JavaScript` | ✅ Done |
+| [** A-Mart / Amazon Clone**](https://github.com/madhushankarkr-cmd/A-mart) | Full e-commerce storefront with modular React architecture | `React` `CSS3` `JavaScript` | Building |
+| [** Music Player**](https://github.com/madhushankarkr-cmd/musicplayer) | Browser-based music player with playlist management | `HTML5` `CSS3` `JS` | ✅ Done |
+| [** DSA Lab**](https://github.com/madhushankarkr-cmd/Data-structure-and-algorithm) | LeetCode & Codeforces solutions, O(N log N) complexity focus | `Java` | 🔄 Ongoing |
 
 </div>
 
-### 🏗️ Open-Source Contributions & Collaborations
+###  Open-Source Contributions & Collaborations
 
 | Repository | Role | Domain |
 |---|---|---|
@@ -159,7 +159,7 @@ class MadhuShankarKumar:
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -169,32 +169,32 @@ class MadhuShankarKumar:
 
 ---
 
-## 🎯 Current Sprint
+##  Current Sprint
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                   ACTIVE DEVELOPMENT BOARD                   ║
 ╠══════════════════════════════════════════════════════════════╣
-║  ⚡  [IN PROGRESS]  Kiith-AI personal assistant             ║
-║  🛡️  [IN PROGRESS]  AegisAI security module                 ║
-║  🌊  [RESEARCH]     BlueGuardian ocean AI system            ║
-║  🧬  [LEARNING]     Advanced DSA — Trees, Graphs, DP        ║
-║  🤖  [LEARNING]     Computer Vision depth pipelines         ║
-║  🗺️  [PLANNING]     GSoC / LFX repo identification          ║
-║  🏆  [TARGET]       Smart India Hackathon 2025              ║
-║  🟢  [COMPLETED]    Fizz & Co — Live on Vercel ✅           ║
+║    [IN PROGRESS]  Kiith-AI personal assistant             ║
+║    [IN PROGRESS]  AegisAI security module                 ║
+║    [RESEARCH]     BlueGuardian ocean AI system            ║
+║    [LEARNING]     Advanced DSA — Trees, Graphs, DP        ║
+║    [LEARNING]     Computer Vision depth pipelines         ║
+║    [PLANNING]     GSoC / LFX repo identification          ║
+║    [TARGET]       Smart India Hackathon 2025              ║
+║    [COMPLETED]    Fizz & Co — Live on Vercel ✅           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🌐 What I Build & Why
+##  What I Build & Why
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧩 What I Build
+###  What I Build
 - **3D Web Experiences** — WebGL physics, real-time rendering, immersive UX
 - **AI Applications** — LLM integrations, computer vision, agent systems
 - **Full-Stack Systems** — React frontends, Node.js APIs, cloud-deployed
@@ -204,7 +204,7 @@ class MadhuShankarKumar:
 </td>
 <td width="50%">
 
-### 🚫 What I Don't Do
+###  What I Don't Do
 - ~~Copy-paste tutorials without understanding~~
 - ~~Ship without testing on real hardware~~
 - ~~Use 10 libraries when 1 will do~~
@@ -217,38 +217,38 @@ class MadhuShankarKumar:
 
 ---
 
-## 📊 Repository Breakdown
+##  Repository Breakdown
 
 ```
 Total Repositories:  30+
-├── 🤖 AI / ML Projects ........... 8   (Wildlife Guardian, AegisAI, Kiith-AI, OmniAgent...)
-├── 🌐 Full-Stack Web .............. 7   (Fizz & Co, A-Mart, Amazon Clone, Aura Web...)
-├── 🧠 DSA / Algorithms ............ 2   (Data Structures & Algorithm Lab)
-├── 🏗️ Open-Source Collab .......... 6   (INDCEF, Kortex-AI, Orchestr-AI...)
-├── 🎮 Creative / Experimental ..... 4   (Music Player, Globe Flash, Alchemist's Kitchen)
-└── ☁️  Cloud / Infrastructure ...... 3   (GCP CloudBuild, Hello-CloudBuild...)
+├──  AI / ML Projects ........... 8   (Wildlife Guardian, AegisAI, Kiith-AI, OmniAgent...)
+├──  Full-Stack Web .............. 7   (Fizz & Co, A-Mart, Amazon Clone, Aura Web...)
+├──  DSA / Algorithms ............ 2   (Data Structures & Algorithm Lab)
+├──  Open-Source Collab .......... 6   (INDCEF, Kortex-AI, Orchestr-AI...)
+├──  Creative / Experimental ..... 4   (Music Player, Globe Flash, Alchemist's Kitchen)
+└──   Cloud / Infrastructure ...... 3   (GCP CloudBuild, Hello-CloudBuild...)
 ```
 
 ---
 
-## 🏆 Milestones & Goals
+##  Milestones & Goals
 
 <div align="center">
 
-| 🎯 Goal | 📌 Status |
+|  Goal |  Status |
 |---|---|
-| GSoC / LFX Mentorship Application | 🗺️ Mapping target repos |
-| Smart India Hackathon | 🎯 Preparing |
-| NVIDIA Student Ambassador | 📋 In Progress |
-| First Major Open-Source Merge | 🔨 Contributing |
+| GSoC / LFX Mentorship Application |  Mapping target repos |
+| Smart India Hackathon |  Preparing |
+| NVIDIA Student Ambassador |  In Progress |
+| First Major Open-Source Merge |  Contributing |
 | Deploy 5 AI Projects | 3/5 ✅ |
-| 100+ GitHub Contributions | 📈 Ongoing |
+| 100+ GitHub Contributions |  Ongoing |
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
