@@ -33,7 +33,7 @@ class MadhuShankarKumar:
     role       = "B.Tech CSE (AI & Data Science) · Aspiring ML Engineer"
     university = "GLA University, Mathura"
     location   = "India"
-    languages  = ["Python", "Java", "C", "JavaScript", "TypeScript"]
+    languages  = ["Python", "Java", "C", "Pandas", "Numpy"]
 
     focus = [
         "Machine Learning & Predictive Modelling",
