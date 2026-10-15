@@ -130,7 +130,7 @@ class MadhuShankarKumar:
 | [**FIZZ & CO**](https://github.com/madhushankarkr-cmd/FIZZ-CO) | Interactive 3D product-storytelling application with WebGL physics | `Next.js` `Three.js` `TypeScript` `Vercel` | Live |
 | [**Globe Flash**](https://github.com/madhushankarkr-cmd/globe-flash) | Interactive flashcard learning platform for global topics | `React` `JavaScript` | Completed |
 | [**Portfolio**](https://github.com/madhushankarkr-cmd/Portfolio) | Personal portfolio website presenting projects and background | `HTML` `CSS` `JavaScript` | Live |
-| [**Semester Study Assistant**](https://github.com/madhushankarkr-cmd/semester-study-assistant) | AI-assisted study tool for semester coursework | `Python` | In Development |
+| [**Semester Study Assistant**](https://github.com/madhushankarkr-cmd/semester-study-assistant) | AI-assisted study tool for semester coursework | `Python` | Completed |
 | [**A.L.E.X-M1**](https://github.com/madhushankarkr-cmd/A.L.E.X-M1) | Tool-using autonomous agent that reasons over a request, selects the right tool and returns a synthesized answer | `TypeScript` `Next.js` `Vercel AI SDK` | In Development |
 
 </div>
