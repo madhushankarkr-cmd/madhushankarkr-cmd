@@ -1,12 +1,12 @@
 <div align="center">
 
-<img alt="Madhu Shankar Kumar header banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Madhu%20Shankar%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" />
+<img alt="Madhu Shankar Kumar header banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Madhu%20Shankar%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Science+%26+Machine+Learning;Computer+Vision+%7C+LLM+Agents;End-to-End+ML+Pipelines+%26+Deployment;Open+to+ML+%26+Data+Science+Internships)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Science+and+Machine+Learning;Computer+Vision+%7C+LLM+Agents;End-to-End+ML+Pipelines+and+Deployment;Open+to+ML+and+Data+Science+Internships)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 
